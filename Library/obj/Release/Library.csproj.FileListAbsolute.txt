@@ -1,0 +1,5 @@
+D:\MyData\git\ForBlogging\GetMethodArguments\Library\obj\Release\ResolveAssemblyReference.cache
+D:\MyData\git\ForBlogging\GetMethodArguments\Library\bin\Release\Library.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Library\bin\Release\Library.pdb
+D:\MyData\git\ForBlogging\GetMethodArguments\Library\obj\Release\Library.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Library\obj\Release\Library.pdb

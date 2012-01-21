@@ -1,0 +1,12 @@
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\obj\Release\ResolveAssemblyReference.cache
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\Tests.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\Tests.pdb
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\Library.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\nunit.framework.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\nunit.mocks.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\pnunit.framework.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\Rhino.Mocks.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\Library.pdb
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\bin\Release\nunit.framework.xml
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\obj\Release\Tests.dll
+D:\MyData\git\ForBlogging\GetMethodArguments\Tests\obj\Release\Tests.pdb
